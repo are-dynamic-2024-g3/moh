@@ -23,7 +23,7 @@ Contribution
 Nous accueillons les contributions de la communauté pour enrichir et améliorer ce projet. N'hésitez pas à ouvrir des issues pour signaler des problèmes ou à soumettre des pull requests avec des améliorations.
 Licence
 
-Ce projet est sous licence Licence. Consultez le fichier LICENSE pour plus de détails.
+
 Contact
 
-Pour toute question ou suggestion, veuillez contacter [nom de l'auteur] à [adresse e-mail].
+Pour toute question ou suggestion, veuillez nous contacter à lm_bouzekri@esi.dz .
