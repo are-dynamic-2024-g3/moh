@@ -1,5 +1,5 @@
-**VROOM - Projet VANET
-**
+**VROOM - Projet VANET**
+
 Bienvenue sur VROOM, votre portail dédié à l'exploration du monde des réseaux ad hoc véhiculaires (VANET) à travers Python.
 Description du Projet
 
