@@ -13,13 +13,14 @@ Objectifs
     Fournir une ressource éducative pour ceux qui souhaitent apprendre à implémenter des solutions VANET.
     Créer une communauté de passionnés et de professionnels partageant un intérêt pour l'innovation dans les transports.
 
+
+
+    
 Contenu
 
     Semaine 1-2 : Mise en place du projet et compréhension des concepts de base des VANET.
     Semaine 3-4 : Implémentation de la détection de collision entre véhicules.
-    Semaine 5-6 : Développement de la communication véhicule-infrastructure.
-    Semaine 7-8 : Création d'un système de gestion du trafic en temps réel.
-    Semaine 9-10 : Intégration et tests de l'ensemble du système.
+    Semaine 5-6 : Développement de la communication véhicule-infrastructure.(en cours) -CAS AUTOROUTE INTERSECTION ROND-POINT
 
 Contribution
 
