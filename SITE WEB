@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>VROOM - VANET Project</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body{
+        background-color: #153832;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="/home/mohamedbzk/Téléchargements/imm.png" alt="Logo" class="logo">
+    <div class="logo-container" style="position: absolute; top: 0; right: 0;">
+    <img src="/home/mohamedbzk/Téléchargements/Logo_Sorbonne_Université.png" alt="Logo" class="unicersite" width="200" height="70"></div>
+  </header>
+  <h2 style="color:aquamarine;">VROOM - VANET Project</h2>
+  
+  <main>
+    <div style="text-align: left; width: 50%; margin-left: 0; margin-right: auto; color: white; font-size: 20px; ">
+        
+        <p>
+            Bienvenue sur VROOM, votre destination privilégiée pour plonger dans le monde des réseaux ad hoc véhiculaires (VANET). À travers ce portail, nous ambitionnons de démystifier les complexités des VANET, une technologie de pointe qui révolutionne la communication entre véhicules et au sein de l'infrastructure routière. En utilisant le langage Python, nous allons coder et expliquer des fonctionnalités clés qui sous-tendent les VANET, allant de la détection de collision à la gestion du trafic en temps réel.
+            Notre projet vise non seulement à fournir une ressource éducative pour ceux qui souhaitent apprendre à implémenter des solutions VANET avec Python, mais aussi à créer une communauté de passionnés et de professionnels partageant le même intérêt pour l'innovation dans les transports. Que vous soyez un étudiant, un chercheur ou un professionnel de l'industrie, [Nom de Votre Site] est conçu pour vous offrir les connaissances et les outils nécessaires pour naviguer dans l'ère des véhicules connectés.
+            Plongez avec nous dans cet univers fascinant et découvrez comment les VANET ouvrent la voie à des systèmes de transport plus sûrs, plus efficaces et plus connectés. Ensemble, explorons le potentiel illimité des réseaux ad hoc véhiculaires avec Python.
+        </p>
+    </div>
+    <section id="welcome">
+      <!-- Contenu de bienvenue -->
+    </section>
+    <section id="vanet-introduction">
+      <!-- Introduction à VANET -->
+    </section>
+    <!-- D'autres sections si nécessaire -->
+  </main>
+  
+  <footer>
+    <p></p>
+    <!-- Autres informations de contact et liens -->
+  </footer>
+  
+  <script src="script.js"></script>
+</body>
+</html>
