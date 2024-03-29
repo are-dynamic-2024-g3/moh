@@ -3,6 +3,9 @@ VROOM - Projet VANET
 Bienvenue sur VROOM, votre portail dédié à l'exploration du monde des réseaux ad hoc véhiculaires (VANET) à travers Python.
 Description du Projet
 
+![vanet by vroom](https://github.com/are-dynamic-2024-g3/chwaker/blob/main/vroom%20vanet%20mod.gif)
+
+
 VROOM est un projet axé sur la création d'une ressource éducative et communautaire pour comprendre et mettre en œuvre des solutions VANET à l'aide du langage Python. Notre objectif est de démystifier les complexités des VANET en développant des fonctionnalités clés, de la détection des collisions à la gestion du trafic en temps réel.
 Objectifs
 
