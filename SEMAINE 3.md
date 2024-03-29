@@ -1,7 +1,7 @@
 **Compe Rendu Semaine 3**
 ---
 
-![Cas d'autoroute](lien_vers_votre_gif)
+![Cas d'autoroute](https://github.com/are-dynamic-2024-g3/chwaker/blob/main/Protocoles%20de%20communication%20pour%20r%C3%A9seaux%20v%C3%A9hiculaires%20ad%20hoc(1)(1).gif)
 
 Dans la semaine 3, nous avons travaillé sur le cas de l'autoroute, simulant un environnement où des véhicules se déplacent vers différentes destinations. Voici un résumé de ce que nous avons accompli :
 
