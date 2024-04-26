@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>VROOM - VANET Project</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      background-color: #153832;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="/home/mohamedbzk/Téléchargements/imm.png" alt="Logo" class="logo">
+    <div class="logo-container" style="position: absolute; top: 0; right: 0;">
+      <img src="/home/mohamedbzk/Téléchargements/Logo_Sorbonne_Université.png" alt="Logo" class="unicersite" width="200" height="70">
+    </div>
+  </header>
+  <h2 style="color:aquamarine;">VROOM - VANET Project</h2>
+  
+  <main>
+    <img src="/home/mohamedbzk/Téléchargements/Capture_d_écran_du_2024-04-04_18-42-17-removebg-preview.png" alt="Logo" class="unicersite" style="position: absolute; top: 50px; right: 100px; width: 500px; height: 600px;">
+    <div style="text-align: left; width: 50%; margin-left: 20px; margin-right: auto; color: white; font-size: 20px; ">
+        
+      <p>
+        
+             Bienvenue sur VROOM, votre destination privilégiée pour plonger dans le monde des réseaux ad hoc véhiculaires (VANET). À travers ce portail, nous ambitionnons de démystifier les complexités des VANET, une technologie de pointe qui révolutionne la communication entre véhicules et au sein de l'infrastructure routière. En utilisant le langage Python, nous allons coder et expliquer des fonctionnalités clés qui sous-tendent les VANET, allant de la détection de collision à la gestion du trafic en temps réel.
+        Notre projet vise non seulement à fournir une ressource éducative pour ceux qui souhaitent apprendre à implémenter des solutions VANET avec Python, mais aussi à créer une communauté de passionnés et de professionnels partageant le même intérêt pour l'innovation dans les transports. Que vous soyez un étudiant, un chercheur ou un professionnel de l'industrie, [Nom de Votre Site] est conçu pour vous offrir les connaissances et les outils nécessaires pour naviguer dans l'ère des véhicules connectés.
+        Plongez avec nous dans cet univers fascinant et découvrez comment les VANET ouvrent la voie à des systèmes de transport plus sûrs, plus efficaces et plus connectés. Ensemble, explorons le potentiel illimité des réseaux ad hoc véhiculaires avec Python.
+      </p>
+    </div>
+
+    <div style="text-align: center; margin-top: 300px;">
+      <img src="/home/mohamedbzk/Téléchargements/Protocoles de communication pour réseaux véhiculaires ad hoc(1).gif" alt="Description de l'image" width="500" height="300" >
+    </div>
+   
+    <div style="text-align: right; margin-top: 20px;">
+      <a href="https://github.com/are-dynamic-2024-g3/chwaker" target="_blank" style="display: inline-block; padding: 15px 30px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 20px; border-radius: 8px;">Voir le projet sur GitHub</a>
+    </div>
+
+ 
+    
+    
+    <section id="welcome">
+      <!-- Contenu de bienvenue -->
+    </section>
+    <section id="vanet-introduction">
+      <!-- Introduction à VANET -->
+    </section>
+    <!-- D'autres sections si nécessaire -->
+  </main>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <footer style="position: fixed; bottom: 0; left: 0; width: 100%; background-color: black; color: white; padding: 20px; box-sizing: border-box; text-align: center;">
+    <div>
+  
+        <p style="display: inline-block; margin: 0;">tous les    droits sont réservés.</p>
+    </div>
+    <div>
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+          <a href="mailto:chwaker_are@gmail.com">Nous contacter</a>
+
+        </ul>
+    </div>
+</footer>
+
+  
+  <script src="script.js"></script>
+</body>
+</html>
