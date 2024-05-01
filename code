@@ -13,35 +13,117 @@
 
 <body>
   <header>
-    <img src="/home/mohamedbzk/Téléchargements/imm.png" alt="Logo" class="logo">
+    <img src="https://vroom-seven.vercel.app/assets/Logo-feb7762c.svg" alt="Logo" class="logo">
     <div class="logo-container" style="position: absolute; top: 0; right: 0;">
-      <img src="/home/mohamedbzk/Téléchargements/Logo_Sorbonne_Université.png" alt="Logo" class="unicersite" width="200" height="70">
+      <img src="https://zupimages.net/viewer.php?id=24/18/lr5e.png" alt="Logo" class="unicersite" width="200" height="70">
+      <a href="https://zupimages.net/viewer.php?id=24/18/lr5e.png"><img src="https://zupimages.net/up/24/18/lr5e.png" class="unicersite" width="200" height="70"/></a>
     </div>
   </header>
   <h2 style="color:aquamarine;">VROOM - VANET Project</h2>
   
   <main>
-    <img src="/home/mohamedbzk/Téléchargements/Capture_d_écran_du_2024-04-04_18-42-17-removebg-preview.png" alt="Logo" class="unicersite" style="position: absolute; top: 50px; right: 100px; width: 500px; height: 600px;">
+    <a href="https://ibb.co/m8yW9kk"><img src="https://i.ibb.co/cL8n600/Capture-d-cran-du-2024-04-04-18-42-17.png" alt="Logo" class="unicersite" style="position: absolute; top: 50px; right: 100px; width: 500px; height: 600px;"></a>
     <div style="text-align: left; width: 50%; margin-left: 20px; margin-right: auto; color: white; font-size: 20px; ">
         
       <p>
         
              Bienvenue sur VROOM, votre destination privilégiée pour plonger dans le monde des réseaux ad hoc véhiculaires (VANET). À travers ce portail, nous ambitionnons de démystifier les complexités des VANET, une technologie de pointe qui révolutionne la communication entre véhicules et au sein de l'infrastructure routière. En utilisant le langage Python, nous allons coder et expliquer des fonctionnalités clés qui sous-tendent les VANET, allant de la détection de collision à la gestion du trafic en temps réel.
-        Notre projet vise non seulement à fournir une ressource éducative pour ceux qui souhaitent apprendre à implémenter des solutions VANET avec Python, mais aussi à créer une communauté de passionnés et de professionnels partageant le même intérêt pour l'innovation dans les transports. Que vous soyez un étudiant, un chercheur ou un professionnel de l'industrie, [Nom de Votre Site] est conçu pour vous offrir les connaissances et les outils nécessaires pour naviguer dans l'ère des véhicules connectés.
+        Notre projet vise non seulement à fournir une ressource éducative pour ceux qui souhaitent apprendre à implémenter des solutions VANET avec Python, mais aussi à créer une communauté de passionnés et de professionnels partageant le même intérêt pour l'innovation dans les transports. Que vous soyez un étudiant, un chercheur ou un professionnel de l'industrie, VANET BY VROOM est conçu pour vous offrir les connaissances et les outils nécessaires pour naviguer dans l'ère des véhicules connectés.
         Plongez avec nous dans cet univers fascinant et découvrez comment les VANET ouvrent la voie à des systèmes de transport plus sûrs, plus efficaces et plus connectés. Ensemble, explorons le potentiel illimité des réseaux ad hoc véhiculaires avec Python.
       </p>
     </div>
 
     <div style="text-align: center; margin-top: 300px;">
-      <img src="/home/mohamedbzk/Téléchargements/Protocoles de communication pour réseaux véhiculaires ad hoc(1).gif" alt="Description de l'image" width="500" height="300" >
+      <img src="https://zupimages.net/up/24/18/s6cq.gif" alt="Description de l'image" width="500" height="300" >
     </div>
    
+
+
+    
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
     <div style="text-align: right; margin-top: 20px;">
       <a href="https://github.com/are-dynamic-2024-g3/chwaker" target="_blank" style="display: inline-block; padding: 15px 30px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 20px; border-radius: 8px;">Voir le projet sur GitHub</a>
     </div>
 
- 
-    
+  <div class="image-container">
+    <br>
+    <br>
+    <a href="https://ibb.co/t8g0QYS"><img src="https://i.ibb.co/3B2x4Sw/Votre-texte-de-paragraphe-removebg-preview.png" alt="Logo" class="unicersite" style="position: absolute; left: 600px;"></a>
+   <br>
+    <br>
+    <br>
+  </div> 
+
+    <div >
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br><br>
+      <br>
+      <br>
+      <br>
+      <br>
+     
+  <h1 style="color: #CCCCCC; font-family: Arial, sans-serif;">Compte rendu du projet</h1>
+
+  <div class="week" style="color: #CCCCCC; font-family: Arial, sans-serif;">
+    <h2 class="week-title">Semaine 1 :</h2>
+    <ul class="summary">
+      <li>Cette semaine, nous avons consacré notre temps à comprendre en profondeur le sujet du projet VANET et à diviser les tâches à accomplir pour sa réalisation.</li>
+      <li>Nous avons mené des discussions approfondies sur les concepts clés des réseaux ad hoc véhiculaires, explorant les défis et les opportunités qu'ils offrent dans le domaine des transports connectés.</li>
+      <li>En partageant nos idées et nos perspectives, nous avons pu établir une vision claire de la direction que prendra notre projet.</li>
+      <li>Nous avons également commencé à esquisser les premières étapes de mise en œuvre, en identifiant les outils et les ressources nécessaires pour avancer efficacement dans les semaines à venir.</li>
+    </ul>
+  </div>
+
+  <div class="week" style="color: #CCCCCC; font-family: Arial, sans-serif;">
+    <h2 class="week-title">Semaine 2 :</h2>
+    <ul class="summary">
+      <li>Au cours de cette semaine, nous avons consacré une part significative de notre temps à une session approfondie de recherche documentaire.</li>
+      <li>Chaque membre s'est investi dans l'exploration des ressources pertinentes en lien avec notre projet.</li>
+      <li>Nous avons entrepris des recherches individuelles afin de réunir un ensemble complet d'informations essentielles pour alimenter notre travail.</li>
+      <li>Nous avons concentré nos efforts de recherche sur notre sujet principal, qui est le Vehicular Ad Hoc Network (VANET).</li>
+    </ul>
+  </div>
+
+  <div class="week" style="color: #CCCCCC; font-family: Arial, sans-serif;">
+    <h2 class="week-title">Semaine 3 :</h2>
+    <ul class="summary">
+      <li>Dans la semaine 3, nous avons travaillé sur le cas de l'autoroute, simulant un environnement où des véhicules se déplacent vers différentes destinations.</li>
+      <li>Nous avons créé une classe Vehicle pour représenter les véhicules sur l'autoroute, avec des attributs tels que la position, la vitesse et la destination.</li>
+      <li>Chaque véhicule peut se déplacer vers sa destination, détecter et partager les obstacles sur la route tels que les accidents ou les manifestations, ainsi que détecter et partager les sorties d'autoroute.</li>
+      <li>Nous avons généré aléatoirement des obstacles et des sorties d'autoroute, puis simulé le mouvement des véhicules et la détection des obstacles et des sorties.</li>
+      <li>En utilisant des fonctions telles que calculate_average_speed et evaluate_highway_status, nous avons pu évaluer la vitesse moyenne de l'autoroute et déterminer si elle était fluide ou embouteillée.</li>
+      <li>Enfin, nous avons bouclé sur un certain nombre de mises à jour pour simuler le déplacement continu des véhicules et la dynamique de l'autoroute.</li>
+    </ul>
+  </div>
+
+  <div class="week" style="color: #CCCCCC; font-family: Arial, sans-serif;">
+    <h2 class="week-title">Semaine 4 :</h2>
+    <ul class="summary">
+      <li>Dans la semaine 4, nous avons travaillé sur le cas de l'autoroute, simulant un environnement où des véhicules se déplacent vers différentes destinations.</li>
+      <li>Nous avons créé une classe Vehicle pour représenter les véhicules sur l'autoroute, avec des attributs tels que la position, la vitesse et la destination.</li>
+      <li>Chaque véhicule peut se déplacer vers sa destination, détecter et partager les obstacles sur la route tels que les accidents ou les manifestations, ainsi que détecter et partager les sorties d'autoroute.</li>
+      <li>Nous avons généré aléatoirement des obstacles et des sorties d'autoroute, puis simulé le mouvem``ent des véhicules et la détection des obstacles et des sorties.</li>
+    </ul>
+  </div>
+</div>
     
     <section id="welcome">
       <!-- Contenu de bienvenue -->
@@ -73,3 +155,4 @@
   <script src="script.js"></script>
 </body>
 </html>
+
